@@ -7,4 +7,4 @@
 - Survived Nathan talking about his PC 
 - Survived WW1, 2, and 3 
 
-[link](www.google.com)
+[link](https://docs.google.com/presentation/d/1CKSoeoDga6rMkMTgFWGFCzoS-HLbVADuKMynKkaMTw4/edit#slide=id.g2b7b31cb2e_0_54)
