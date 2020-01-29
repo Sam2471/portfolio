@@ -10,7 +10,7 @@
 [Youtube](https://sam2471.github.io/portfolio/)
 
 
-| Tables        | Are           | for noobs            |
+| Tables        |  Material     | Cost                 |
 | ------------- |:-------------:| --------------------:|
 | Oak           | Wood          |    One loaf of bread |
 | Spurce        | Wood          |    Too much          |
