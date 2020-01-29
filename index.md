@@ -10,9 +10,9 @@
 [Youtube](https://sam2471.github.io/portfolio/)
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables        | Are           | for noobs            |
+| ------------- |:-------------:| --------------------:|
+| Oak           | Wood          |    One loaf of bread |
+| Spurce        | Wood          |    Too much          |
+| Birch         | Wood          |    £12.99            |  
 
