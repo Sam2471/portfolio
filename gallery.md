@@ -53,3 +53,9 @@ layout: default
     <img src="assets/gallery/G2S4.jpg" alt="G2S4" width="75%">
   </a>
 </div>
+
+</div><div class="gallery">
+  <a target="_blank" href="assets/gallery/G2S4.jpg">
+    <video src="SMALLER GAMEPLAY.mov" width="75%" controls preload></video>
+  </a>
+</div>
