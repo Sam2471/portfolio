@@ -45,7 +45,7 @@ layout: default
 
 <div class="gallery">
   <a target="_blank" href="assets/gallery/G2S3.jpg">
-    <img src="assets/gallery/42S3.jpg" alt="G2S3" width="75%">
+    <img src="assets/gallery/G2S3.jpg" alt="G2S3" width="75%">
   </a>
 
 </div><div class="gallery">
