@@ -7,7 +7,7 @@
 - Survived Nathan talking about his PC 
 - Survived WW1, 2, and 3 
 
-[Youtube](https://sam2471.github.io/portfolio/)
+[Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 | Tables        |  Material     | Cost                 |
