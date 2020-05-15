@@ -6,7 +6,7 @@ layout: default
 
 <div class="gallery">
   <a target="_blank" href="assets/gallery/1.jpg">
-    <img src="assets/gallery/1.jpg" alt="Cinque Terre" width="100%">
+    <img src="assets/gallery/1.jpg" alt="Cinque Terre" width="60%">
   </a>
 </div>
 
