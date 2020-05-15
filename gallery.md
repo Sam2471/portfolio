@@ -55,7 +55,7 @@ layout: default
 </div>
 
 </div><div class="gallery">
-  <a target="_blank" href="assets/gallery/G2S4.jpg">
+  <a target="_blank" href="assets/gallery/SMALLER GAMEPLAY.mov">
     <video src="SMALLER GAMEPLAY.mov" width="320" height="200" controls preload></video>
   </a>
 </div>
