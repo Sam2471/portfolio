@@ -28,7 +28,6 @@ layout: default
 </div>
 
 </div><div class="gallery">
-  <a target="_blank" href="assets/gallery/SMALLER GAMEPLAY.mov">
-    <video src="SMALLER GAMEPLAY.mov" width="75%" controls preload></video>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gH9T5MLsLdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>controls preload></video>
   </a>
 </div>
