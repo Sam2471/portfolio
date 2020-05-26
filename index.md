@@ -9,7 +9,6 @@
 - Used some Blender(Animation/modeling software)
 - Can sometimes decode and breakdown a problem using logic
 - Can otherwise use google
-
 - Survived Nathan talking about his PC 
 
 [Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
