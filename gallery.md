@@ -28,7 +28,7 @@ layout: default
  </a>
 
 ### Red Bar
-</div><div class="gallery">
+<div class="gallery">
   <a target="_blank" href="assets/gallery/G2S4.jpg">
     <img src="assets/gallery/G2S4.jpg" alt="G2S4" width="75%">
   
