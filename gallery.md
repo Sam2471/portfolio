@@ -36,3 +36,6 @@ layout: default
 </div>
 ### Game Play 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gH9T5MLsLdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Play The Game
+<https://sam2471.github.io/ibusineswebgltest2/>
