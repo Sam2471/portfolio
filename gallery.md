@@ -4,6 +4,7 @@ layout: default
 
 ## Ibusiness Inc
 
+### Main Menu
 <div class="gallery">
   <a target="_blank" href="assets/gallery/G2S1.jpg">
     <img src="assets/gallery/G2S1.jpg" alt="G2S1" width="75%">
@@ -11,6 +12,7 @@ layout: default
  </a>
 </div>
 
+### First Screen
 <div class="gallery">
   <a target="_blank" href="assets/gallery/G2S2.jpg">
     <img src="assets/gallery/G2S2.jpg" alt="G2S2" width="75%">
@@ -18,17 +20,19 @@ layout: default
  </a>
 </div>
 
+### Green Bar 
 <div class="gallery">
   <a target="_blank" href="assets/gallery/G2S3.jpg">
     <img src="assets/gallery/G2S3.jpg" alt="G2S3" width="75%">
  
  </a>
 
+### Red Bar
 </div><div class="gallery">
   <a target="_blank" href="assets/gallery/G2S4.jpg">
     <img src="assets/gallery/G2S4.jpg" alt="G2S4" width="75%">
   
   </a>
 </div>
-
+### Game Play 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gH9T5MLsLdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
