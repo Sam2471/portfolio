@@ -1,5 +1,5 @@
 
 
-# Facebook >>> https://www.facebook.com/samuel.flowers.1276
+# Facebook >>> [Samuel Flowers](https://www.facebook.com/samuel.flowers.1276)
 
-# Reddit >>> https://www.reddit.com/user/Samuel_Flowers
+# Reddit >>> [Samuel_Flowers]https://www.reddit.com/user/Samuel_Flowers)
