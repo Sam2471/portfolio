@@ -1,6 +1,6 @@
 # Portfolio
 ## Samuel Flowers
-### Age 17 - Still
+### Age 18
 
 ### Skills
 - Knows some programming in C# and Python
