@@ -1,7 +1,7 @@
 # Portfolio
 ## Samuel Flowers
 ### Age 18
-
+### In College
 ### Skills
 - Knows some programming in C# and Python
 - Made a couple games on the Unity Engine
