@@ -35,6 +35,12 @@ layout: default
   </a>
 </div>
 
+### Game Play 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gH9T5MLsLdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Play The Game
+[Ibusinessinc The Game](https://sam2471.github.io/ibusineswebgltest2/)
+
 ## Game 2
 <div class="gallery">
   <a target="_blank" href="assets/gallery/1.jpg">
@@ -43,8 +49,23 @@ layout: default
   </a>
 </div>
 
-### Game Play 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gH9T5MLsLdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="gallery">
+  <a target="_blank" href="assets/gallery/2.jpg">
+    <img src="assets/gallery/2.jpg" alt="2" width="75%">
+  
+  </a>
+</div>
 
-### Play The Game
-[Ibusinessinc The Game](https://sam2471.github.io/ibusineswebgltest2/)
+<div class="gallery">
+  <a target="_blank" href="assets/gallery/3.jpg">
+    <img src="assets/gallery/3.jpg" alt="3" width="75%">
+  
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/gallery/4.jpg">
+    <img src="assets/gallery/4.jpg" alt="4" width="75%">
+  
+  </a>
+</div>
