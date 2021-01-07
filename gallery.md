@@ -70,3 +70,13 @@ layout: default
   
   </a>
 </div>
+
+## Game 3 
+
+### Main Menu 
+<div class="gallery">
+  <a target="_blank" href="assets/gallery/G3L1.jpg">
+    <img src="assets/gallery/G3L1.jpg" alt="G3L1" width="75%">
+  
+  </a>
+</div>
