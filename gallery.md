@@ -80,3 +80,19 @@ layout: default
   
   </a>
 </div>
+
+### Decorations
+<div class="gallery">
+  <a target="_blank" href="assets/gallery/G3I2.jpg">
+    <img src="assets/gallery/G3I2.jpg" alt="G3I2" width="75%">
+  
+  </a>
+</div>
+
+### Paintings
+<div class="gallery">
+  <a target="_blank" href="assets/gallery/G3I3.jpg">
+    <img src="assets/gallery/G3I3.jpg" alt="G3I3" width="75%">
+  
+  </a>
+</div>
