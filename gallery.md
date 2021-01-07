@@ -42,27 +42,28 @@ layout: default
 [Ibusinessinc The Game](https://sam2471.github.io/ibusineswebgltest2/)
 
 ## Game 2
+### Start
 <div class="gallery">
   <a target="_blank" href="assets/gallery/1.jpg">
     <img src="assets/gallery/1.jpg" alt="1" width="75%">
   
   </a>
 </div>
-
+### Enemy
 <div class="gallery">
   <a target="_blank" href="assets/gallery/2.jpg">
     <img src="assets/gallery/2.jpg" alt="2" width="75%">
   
   </a>
 </div>
-
+### Game Over
 <div class="gallery">
   <a target="_blank" href="assets/gallery/3.jpg">
     <img src="assets/gallery/3.jpg" alt="3" width="75%">
   
   </a>
 </div>
-
+### Coins
 <div class="gallery">
   <a target="_blank" href="assets/gallery/4.jpg">
     <img src="assets/gallery/4.jpg" alt="4" width="75%">
