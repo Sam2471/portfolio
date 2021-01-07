@@ -75,8 +75,8 @@ layout: default
 
 ### Main Menu 
 <div class="gallery">
-  <a target="_blank" href="assets/gallery/G3L1.jpg">
-    <img src="assets/gallery/G3L1.jpg" alt="G3L1" width="75%">
+  <a target="_blank" href="assets/gallery/G3I1.jpg">
+    <img src="assets/gallery/G3I1.jpg" alt="G3I1" width="75%">
   
   </a>
 </div>
